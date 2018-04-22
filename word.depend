@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1471859455 source:e:\c++ project\word\main.cpp
+	"word_game.h"
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1471330000 e:\c++ project\word\include\playing.h
+	<string>
+
+1471330286 source:e:\c++ project\word\src\playing.cpp
+	"word_game.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<fstream>
+
+1471330316 e:\c++ project\word\include\word_game.h
+	<string>
+
